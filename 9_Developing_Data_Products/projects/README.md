@@ -23,7 +23,7 @@ README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecou
 
 FirstName | LastName | Email
 --- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
+Hadi |  Abou Daya |  <hadiaboudaya4@gmail.com>
 Submit |  Pull Request | <youremailhere@gmail.com>
 
 ## License
